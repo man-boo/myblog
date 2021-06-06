@@ -1,0 +1,19 @@
+body{
+  text-align:center;
+  background-color:lightgreen;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+  font-size:20px;
+}
+#bio{
+  padding:20px;
+  font-size:18px;
+  }
+li {
+    list-style: none;
+    display: inline;
+}
+li:hover{
+    background-color: blue;
+}
